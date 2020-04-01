@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-You can use the [editor on GitHub](https://github.com/Ulti-Dreisteine/Ulti-Dreisteine.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![封面](img/wall_paper.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Welcom to Ulti-Dreisteine's Github Page
+***
 
-```markdown
-Syntax highlighted code block
+## My Introduction
+* **Name**: Dreisteine
+* **City**: Chengdu
+* **Country**: China
+* **Major**: Chemical Engineering, Process System Engineering
 
-# Header 1
-## Header 2
-### Header 3
+***
+## My Interests
+* **Nonlinear Process Modeling**
+* **Data Analysis**
+* **Time Series Analysis**
+* **Machine Learning**
+* **Deep Learning**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ulti-Dreisteine/Ulti-Dreisteine.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***
+## Repositories
+* [**Machine Learning:** Local Model Interpretation for GBDT](https://ulti-dreisteine.github.io/local-interpretation-for-gbdt/)

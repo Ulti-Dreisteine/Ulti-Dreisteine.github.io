@@ -12,7 +12,7 @@
 ![封面](img/wall_paper.jpg)
 
 
-# Welcome to My Github Page
+# Welcome！
 ***
 
 ## Introduction

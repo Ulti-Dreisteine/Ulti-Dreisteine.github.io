@@ -46,7 +46,7 @@
 
 ***Machine Learning***
 * [Clustering](https://github.com/Ulti-Dreisteine/clustering_algorithm)
-* [Gaussian Process Regression](https://github.com/Ulti-Dreisteine/gaussian-process-regression)  
+* [Gaussian Process Regression](https://ulti-dreisteine.github.io/gaussian-process-regression/)  
 * [Local Model Interpretation for GBDT](https://ulti-dreisteine.github.io/local-interpretation-for-gbdt/)
 * [Others](https://github.com/Ulti-Dreisteine/machine_learning)
 

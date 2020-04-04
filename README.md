@@ -16,10 +16,10 @@
 ***
 
 ## Introduction
-* **Name**: *Dreisteine*
+* **Name**: *Lei Luo*
 * **City**: *Chengdu*
 * **Country**: *China*
-* **Major**: *Chemical Engineering*, *Process System Engineering*
+* **Major**: *Chemical Engineering*, *Process Systems Engineering*
 
 ***
 ## Interests
@@ -56,9 +56,19 @@
 ***Project Skills***
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
 * [Web Service](https://github.com/Ulti-Dreisteine/web_service)
+* [Others](https://github.com/Ulti-Dreisteine/project-tools-and-skills)
 
 ***Others***
 * [Software Config Files](https://github.com/Ulti-Dreisteine/software-config-files)
 * [LeetCode](https://github.com/Ulti-Dreisteine/LeetCode)
 * [The Hungarian Method](https://github.com/Ulti-Dreisteine/the-hungarian-method)
 * [Dynamic Programming](https://github.com/Ulti-Dreisteine/dynamic_programming)
+
+***
+## Published Papers
+1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes, Computers & Chemical Engineering, 2017  
+2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu: Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene, Chemical Engineering Science, 2016
+
+***
+## Favorite Books
+1. H. Kantz, T. Schreiber: Nonelinear Time Series Analysis

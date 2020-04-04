@@ -19,7 +19,7 @@
 * **Name**: *Lei Luo*
 * **City**: *Chengdu*
 * **Country**: *China*
-* **Major**: *Chemical Engineering*, *Process Systems Engineering*
+* **Majors**: *Chemical Engineering*, *Process Systems Engineering*
 
 ***
 ## Interests

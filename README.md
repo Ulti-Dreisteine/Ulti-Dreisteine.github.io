@@ -19,7 +19,12 @@
 * **Name**: *Lei Luo*
 * **City**: *Chengdu*
 * **Country**: *China*
-* **Majors**: *Chemical Engineering*, *Process Systems Engineering*
+* **Majors**:
+  * *Bachelor* in *Chemical Engineering*, *Tsinghua University*, *Beijing*
+  * *Master* in *Process Systems Engineering*, *Tsinghua University*, *Beijing*
+* **Email**:
+  * *dreisteine262@163.com*
+  * *dreisteine262@gmail.com*
 
 ***
 ## Interests
@@ -72,5 +77,5 @@
 
 ***
 ## Favorite Books
-1. H. Kantz, T. Schreiber: *Nonelinear Time Series Analysis*
-2. C. Bishop: *Pattern Recognition and Machine Learning*
+1. H. Kantz, T. Schreiber: *Nonelinear Time Series Analysis*.
+2. C. Bishop: *Pattern Recognition and Machine Learning*.

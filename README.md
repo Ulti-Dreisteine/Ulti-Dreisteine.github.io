@@ -12,7 +12,7 @@
 ![封面](img/wall_paper.jpg)
 
 
-# Welcome！
+# Welcome to My Blog
 ***
 
 ## Introduction
@@ -30,9 +30,9 @@
 * *Deep Learning*
 
 ***
-## Recent Focus
+## Working on
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
-* [Multivariate Correlation Analysis](https://github.com/Ulti-Dreisteine/multivariate-correlation-analysis)
+* [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
 
 ***
 ## Repositories
@@ -42,7 +42,6 @@
 ***Data Analysis***
 * [Time Series Relevant](https://github.com/Ulti-Dreisteine/time_series_relevant)
 * [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
-* [Multivariate Correlation Analysis](https://github.com/Ulti-Dreisteine/multivariate-correlation-analysis)
 
 ***Machine Learning***
 * [Clustering](https://github.com/Ulti-Dreisteine/clustering_algorithm)
@@ -66,9 +65,12 @@
 
 ***
 ## Published Papers
-1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes, Computers & Chemical Engineering, 2017  
-2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu: Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene, Chemical Engineering Science, 2016
+1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes, Computers & Chemical Engineering, 2017.  
+2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu: Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene, Chemical Engineering Science, 2016.
+3. **L. Luo**, T. Qiu, J. Zhao: Process Optimization of Propylene under Parametric Disturbances, PSE Asia 2016.
+4. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance, CIESC Journal, 2016.
 
 ***
 ## Favorite Books
 1. H. Kantz, T. Schreiber: Nonelinear Time Series Analysis
+2. C. Bishop: Pattern Recognition and Machine Learning

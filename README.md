@@ -65,12 +65,12 @@
 
 ***
 ## Published Papers
-1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes, Computers & Chemical Engineering, 2017.  
-2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu: Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene, Chemical Engineering Science, 2016.
-3. **L. Luo**, T. Qiu, J. Zhao: Process Optimization of Propylene under Parametric Disturbances, PSE Asia 2016.
-4. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance, CIESC Journal, 2016.
+1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: ***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***, Computers & Chemical Engineering, 2017.  
+2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu: ***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***, Chemical Engineering Science, 2016.
+3. **L. Luo**, T. Qiu, J. Zhao: ***Process Optimization of Propylene under Parametric Disturbances***, PSE Asia 2016.
+4. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: ***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***, CIESC Journal, 2016.
 
 ***
 ## Favorite Books
-1. H. Kantz, T. Schreiber: Nonelinear Time Series Analysis
-2. C. Bishop: Pattern Recognition and Machine Learning
+1. H. Kantz, T. Schreiber: *Nonelinear Time Series Analysis*
+2. C. Bishop: *Pattern Recognition and Machine Learning*

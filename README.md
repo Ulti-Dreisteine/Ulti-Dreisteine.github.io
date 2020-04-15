@@ -38,6 +38,7 @@
 ## Working on
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
 * [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
+* [Numerical Optimization](https://ulti-dreisteine.github.io/numerical-optimization/)
 
 ***
 ## Repositories
@@ -63,6 +64,7 @@
 * [Others](https://github.com/Ulti-Dreisteine/project-tools-and-skills)
 
 ***Others***
+* [Numerical Optimization](https://ulti-dreisteine.github.io/numerical-optimization/)
 * [Software Config Files](https://github.com/Ulti-Dreisteine/software-config-files)
 * [LeetCode](https://github.com/Ulti-Dreisteine/LeetCode)
 * [The Hungarian Method](https://github.com/Ulti-Dreisteine/the-hungarian-method)
@@ -79,3 +81,4 @@
 ## Favorite Books
 1. H. Kantz, T. Schreiber: *Nonelinear Time Series Analysis*.
 2. C. Bishop: *Pattern Recognition and Machine Learning*.
+3. J. Nocedal, S. J. Wright: *Numerical Optimization*.

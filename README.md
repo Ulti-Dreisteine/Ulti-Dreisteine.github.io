@@ -36,6 +36,7 @@
 
 ***
 ## Working on
+* [GCN](https://ulti-dreisteine.github.io/gcn/)
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
 * [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
 * [Numerical Optimization](https://ulti-dreisteine.github.io/numerical-optimization/)
@@ -56,6 +57,7 @@
 * [Others](https://github.com/Ulti-Dreisteine/machine_learning)
 
 ***Deep Learning***
+* [GCN](https://ulti-dreisteine.github.io/gcn/)
 * [ODE Network](https://github.com/Ulti-Dreisteine/ode_network)
 
 ***Project Skills***

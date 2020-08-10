@@ -21,7 +21,8 @@
 * **Country**: *China*
 * **Majors**:
   * *Bachelor* in *Chemical Engineering*, *Tsinghua University*, *Beijing*
-  * *Master* in *Process Systems Engineering*, *Tsinghua University*, *Beijing*
+  * *Master* in *Chemical Engineering*, *Tsinghua University*, *Beijing*
+  * *Ph.D. candidate* in *Chemical Engineering*, *Sichuan University*, *Chengdu*
 * **Email**:
   * *dreisteine262@163.com*
   * *dreisteine262@gmail.com*

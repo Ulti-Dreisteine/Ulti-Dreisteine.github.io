@@ -13,6 +13,7 @@
 
 
 # Welcome to My Blog
+
 ***
 
 ## Introduction
@@ -28,14 +29,15 @@
   * *dreisteine262@gmail.com*
 
 ***
+
 ## Interests
-* *Nonlinear Process Modeling*
-* *Data Analysis*
+* *Nonlinear Markov Process Modeling*
 * *Time Series Analysis*
-* *Machine Learning*
-* *Deep Learning*
+* *Information Theory*
+* *Machine Learning* & *Deep Learning*
 
 ***
+
 ## Working on
 * [GCN](https://ulti-dreisteine.github.io/gcn/)
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
@@ -43,6 +45,7 @@
 * [Numerical Optimization](https://ulti-dreisteine.github.io/numerical-optimization/)
 
 ***
+
 ## Repositories
 ***Chemical Process Modeling***
 * [CSTR Transient Model](https://github.com/Ulti-Dreisteine/cstr_transient_model)
@@ -74,6 +77,7 @@
 * [Dynamic Programming](https://github.com/Ulti-Dreisteine/dynamic_programming)
 
 ***
+
 ## Published Papers
 1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: ***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***, Computers & Chemical Engineering, 2017.  
 2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu: ***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***, Chemical Engineering Science, 2016.
@@ -81,6 +85,15 @@
 4. **L. Luo**, F. Cheng, T. Qiu, J. Zhao: ***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***, CIESC Journal, 2016.
 
 ***
+
+## Patents
+1. **罗磊**, 李辰, 李玮, 廖强: 一种污染物浓度的预测模型训练方法、预测方法及装置, 2020 (审中).
+2. **罗磊**, 李辰, 李玮, 廖强: 基于高斯回归的大气污染物浓度的预测方法及装置， 2020 (审中).
+3. 廖强, **罗磊**, 王晓健, 姜海亮: 一种脱硫优化方法、装置、电子设备及存储介质, 2020 (审中).
+4. 张承武, 杨爱勇, **罗磊**, 韦飞, 冯建春, 舒喜, 宣添星, 张亚伟, 王敏: 一种复合脱硫装置石膏浆液密度测量方法及测量系统, 2020 (审中).
+
+***
+
 ## Favorite Books
 1. H. Kantz, T. Schreiber: *Nonelinear Time Series Analysis*.
 2. C. Bishop: *Pattern Recognition and Machine Learning*.

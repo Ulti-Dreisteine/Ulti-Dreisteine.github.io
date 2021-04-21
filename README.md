@@ -47,6 +47,7 @@
 ***General Tools***
 * [Software & Env Configs](https://github.com/Ulti-Dreisteine/software-env-config-notes)
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
+* [Porject Template](https://github.com/Ulti-Dreisteine/project-template)
 
 ***Tutorials***
 * [Sphinx Demo](https://github.com/Ulti-Dreisteine/sphinx-demo)
@@ -55,6 +56,7 @@
 
 ***Algorithm Research***
 * [Local Interpretation for GBDT](https://github.com/Ulti-Dreisteine/local-interpretation-for-gbdt)
+* [Classification with Incomplete Data](https://github.com/Ulti-Dreisteine/Classification-with-Incomplete-Data)
 * [Correlation Analysis](https://github.com/Ulti-Dreisteine/nonlinear-correlation-analysis)
 * [Time Series Correlation Analysis](https://github.com/Ulti-Dreisteine/time-series-correlaltion-analysis)
 * [Neural ODE Net Modeling (A)](https://github.com/Ulti-Dreisteine/Neural-ODE-Model-Research)

@@ -55,7 +55,7 @@
 * [Web Service](https://github.com/Ulti-Dreisteine/web_service)
 
 ***Algorithm Research***
-* [Local Interpretation for GBDT](https://github.com/Ulti-Dreisteine/local-interpretation-for-gbdt)
+* [Local Interpretation for GBDT](https://ulti-dreisteine.github.io/local-interpretation-for-gbdt/)
 * [Classification with Incomplete Data](https://github.com/Ulti-Dreisteine/Classification-with-Incomplete-Data)
 * [Correlation Analysis](https://github.com/Ulti-Dreisteine/nonlinear-correlation-analysis)
 * [Time Series Correlation Analysis](https://github.com/Ulti-Dreisteine/time-series-correlaltion-analysis)

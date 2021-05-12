@@ -38,11 +38,8 @@
 
 ***
 
-## Working on
-* [GCN](https://ulti-dreisteine.github.io/gcn/)
+## Currently Working on
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
-* [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
-* [Numerical Optimization](https://ulti-dreisteine.github.io/numerical-optimization/)
 
 ***
 
@@ -56,27 +53,39 @@
 * [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
 * [Time Series Walk-forward Forecasting](https://github.com/Ulti-Dreisteine/time-series-walk-forward-modeling)
 
-***Machine Learning***
-* [Clustering](https://github.com/Ulti-Dreisteine/clustering_algorithm)
-* [Gaussian Process Regression](https://ulti-dreisteine.github.io/gaussian-process-regression/)  
-* [Local Model Interpretation for GBDT](https://ulti-dreisteine.github.io/local-interpretation-for-gbdt/)
-* [Others](https://github.com/Ulti-Dreisteine/machine_learning)
-
-***Deep Learning***
-* [GCN](https://ulti-dreisteine.github.io/gcn/)
-* [ODE Network](https://github.com/Ulti-Dreisteine/ode_network)
-
-***Project Skills***
+***General Tools***
+* [Software & Env Configs](https://github.com/Ulti-Dreisteine/software-env-config-notes)
 * [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
-* [Web Service](https://github.com/Ulti-Dreisteine/web_service)
-* [Others](https://github.com/Ulti-Dreisteine/project-tools-and-skills)
+* [Project Template](https://github.com/Ulti-Dreisteine/project-template)
 
-***Others***
-* [Numerical Optimization](https://ulti-dreisteine.github.io/numerical-optimization/)
-* [Software Config Files](https://github.com/Ulti-Dreisteine/software-config-files)
+***Tutorials***
+* [Sphinx Demo](https://github.com/Ulti-Dreisteine/sphinx-demo)
+* [PyCaret](https://github.com/Ulti-Dreisteine/PyCaret-tutorial)
+* [Web Service](https://github.com/Ulti-Dreisteine/web_service)
+
+***Algorithm Research***
+* [Local Interpretation for GBDT](https://ulti-dreisteine.github.io/local-interpretation-for-gbdt/)
+* [Classification with Incomplete Data](https://github.com/Ulti-Dreisteine/Classification-with-Incomplete-Data)
+* [Correlation Analysis](https://github.com/Ulti-Dreisteine/nonlinear-correlation-analysis)
+* [Time Series Correlation Analysis](https://github.com/Ulti-Dreisteine/time-series-correlaltion-analysis)
+* [Neural ODE Net Modeling (A)](https://github.com/Ulti-Dreisteine/Neural-ODE-Model-Research)
+* [Neural ODE Net Modeling (B)](https://github.com/Ulti-Dreisteine/ode_network)
+* [Numerical Optimization](https://github.com/Ulti-Dreisteine/numerical-optimization)
+* [Gaussian Process Regression](https://github.com/Ulti-Dreisteine/gaussian-process-regression)
+* [Clustering](https://github.com/Ulti-Dreisteine/clustering_algorithm)
+
+***Practices***
 * [LeetCode](https://github.com/Ulti-Dreisteine/LeetCode)
-* [The Hungarian Method](https://github.com/Ulti-Dreisteine/the-hungarian-method)
 * [Dynamic Programming](https://github.com/Ulti-Dreisteine/dynamic_programming)
+
+***Application Cases***
+* [VTE Modeling](https://github.com/Ulti-Dreisteine/trauma-patient-VTE-modeling)
+* [GCN2Seq Air Forecast](https://github.com/Ulti-Dreisteine/gcn2seq)
+* [Air Quality Forecast](https://github.com/Ulti-Dreisteine/time_series_relevant)
+* [Chemical CSTR Reactor Modeling](https://github.com/Ulti-Dreisteine/cstr_transient_model)
+
+***Reseach Projects***
+* [Research Projects](https://github.com/users/Ulti-Dreisteine/projects/2)
 
 ***
 
@@ -100,3 +109,6 @@
 1. H. Kantz, T. Schreiber: *Nonelinear Time Series Analysis*.
 2. C. Bishop: *Pattern Recognition and Machine Learning*.
 3. J. Nocedal, S. J. Wright: *Numerical Optimization*.
+4. T. M. Cover, J. A. Thomas: *Elements of Information Theory*.
+5. D. J. C. Mackay: *Information Theory, Inference and Learning Algorithms*.
+6. J. Pearl: *The Book of Why*.

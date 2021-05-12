@@ -49,10 +49,12 @@
 ## Repositories
 ***Chemical Process Modeling***
 * [CSTR Transient Model](https://github.com/Ulti-Dreisteine/cstr_transient_model)
+* [Transient Breakthrough Simulation](https://github.com/Ulti-Dreisteine/transient-breakthrough-simulation)
 
 ***Data Analysis***
 * [Time Series Relevant](https://github.com/Ulti-Dreisteine/time_series_relevant)
 * [Time Series Correlation Analysis](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
+* [Time Series Walk-forward Forecasting](https://github.com/Ulti-Dreisteine/time-series-walk-forward-modeling)
 
 ***Machine Learning***
 * [Clustering](https://github.com/Ulti-Dreisteine/clustering_algorithm)

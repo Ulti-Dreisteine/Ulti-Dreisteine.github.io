@@ -106,8 +106,8 @@
 2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu:***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***, Chemical Engineering Science, 2016.
 3. **L. Luo**, T. Qiu, J. Zhao:***Process Optimization of Propylene under Parametric Disturbances***, PSE Asia 2016.
 4. **L. Luo**, F. Cheng, T. Qiu, J. Zhao:***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***, CIESC Journal, 2016.
-5. L. He,**L. Luo**, X. Hou, et al.:***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***, BMC Emergency Medicine, 2021.
-6. Y. Zhang,**L. Luo**, X. Ji, et al.:***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***, Sensors, 2021.
+5. L. He, **L. Luo**, X. Hou, et al.:***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***, BMC Emergency Medicine, 2021.
+6. Y. Zhang, **L. Luo**, X. Ji, et al.:***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***, Sensors, 2021.
 
 ---
 

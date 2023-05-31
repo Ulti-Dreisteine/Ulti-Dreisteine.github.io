@@ -23,7 +23,7 @@
 * **Majors**:
   * *Bachelor* in*Chemical Engineering*,*Tsinghua University*,*Beijing*
   * *Master* in*Chemical Engineering*,*Tsinghua University*,*Beijing*
-  * *Ph.D. candidate* in*Chemical Engineering*,*Sichuan University*,*Chengdu*
+  * *PhD* in*Chemical Engineering*,*Sichuan University*,*Chengdu*
 * **Email**:
   * *dreisteine262@163.com*
   * *dreisteine262@gmail.com*
@@ -32,10 +32,11 @@
 
 ## Interests
 
+* *Causal Inference & Structrual Learning*
 * *Nonlinear Markov Process Modeling*
 * *Time Series Analysis*
 * *Information Theory*
-* *Machine Learning* &*Deep Learning*
+* *Machine Learning* & *Deep Learning*
 
 ---
 
@@ -102,13 +103,15 @@
 
 ## Published Papers
 
-1. **L. Luo**, F. Cheng, T. Qiu, J. Zhao:***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***, Computers & Chemical Engineering, 2017.
-2. **L. Luo**, N. Zhang, Z. Xia, T. Qiu:***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***, Chemical Engineering Science, 2016.
-3. **L. Luo**, T. Qiu, J. Zhao:***Process Optimization of Propylene under Parametric Disturbances***, PSE Asia 2016.
-4. **L. Luo**, F. Cheng, T. Qiu, J. Zhao:***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***, CIESC Journal, 2016.
-5. L. He, **L. Luo**, X. Hou, et al.:***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***, BMC Emergency Medicine, 2021.
-6. Y. Zhang, **L. Luo**, X. Ji, et al.:***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***, Sensors, 2021.
-
+1. **L. Luo**, G. He, C. Chen, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Adaptive Data Dimensionality Reduction for Chemical Process Modeling Based on the Information Criterion Related to Data Association and Redundancy***. Industrial & Engineering Chemistry Research, 2022.
+2. **L. Luo**, G. He, Y. Zhang, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Association Measure and Compact Prediction for Chemical Process Data from An Information-theoretic Perspective***. Processes, 2022.
+3. **L. Luo**, F. Cheng, T. Qiu, J. Zhao:***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***, Computers & Chemical Engineering, 2017.
+4. **L. Luo**, N. Zhang, Z. Xia, T. Qiu:***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***, Chemical Engineering Science, 2016.
+5. **L. Luo**, T. Qiu, J. Zhao:***Process Optimization of Propylene under Parametric Disturbances***, PSE Asia 2016.
+6. **L. Luo**, F. Cheng, T. Qiu, J. Zhao:***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***, CIESC Journal, 2016.
+7. L. He, **L. Luo**, X. Hou, et al.:***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***, BMC Emergency Medicine, 2021.
+8. Y. Zhang, **L. Luo**, X. Ji, et al.:***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***, Sensors, 2021.
+9. **罗磊**, 吉旭. 一种基于相关性分析和深度学习的多元非线性时间序列通用预测方法及其在化工过程中的应用. 2020年中国过程系统工程年会, 重庆, 2020.
 ---
 
 ## Patents

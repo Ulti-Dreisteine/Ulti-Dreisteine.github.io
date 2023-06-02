@@ -21,9 +21,9 @@
 * **City**:*Chengdu*
 * **Country**:*China*
 * **Majors**:
-  * *Bachelor* in*Chemical Engineering*,*Tsinghua University*,*Beijing*
-  * *Master* in*Chemical Engineering*,*Tsinghua University*,*Beijing*
-  * *PhD* in*Chemical Engineering*,*Sichuan University*,*Chengdu*
+  * *Bachelor* for *Chemical Engineering*, *Tsinghua University*, *Beijing*
+  * *Master* for *Chemical Engineering*, *Tsinghua University*, *Beijing*
+  * *PhD* for *Chemical Engineering*, *Sichuan University*, *Chengdu*
 * **Email**:
   * *dreisteine262@163.com*
   * *dreisteine262@gmail.com*

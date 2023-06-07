@@ -21,9 +21,9 @@
 * **City**:*Chengdu*
 * **Country**:*China*
 * **Majors**:
-  * *Bachelor* for *Chemical Engineering*, *Tsinghua University*, *Beijing*
-  * *Master* for *Chemical Engineering*, *Tsinghua University*, *Beijing*
-  * *PhD* for *Chemical Engineering*, *Sichuan University*, *Chengdu*
+  * *Bachelor* in *Chemical Engineering*, *Tsinghua University*, *Beijing*
+  * *Master* in *Chemical Engineering (Process Systems Engineering)*, *Tsinghua University*, *Beijing*
+  * *Ph.D* in *Chemical Engineering (Process Systems Engineering)*, *Sichuan University*, *Chengdu*
 * **Email**:
   * *dreisteine262@163.com*
   * *dreisteine262@gmail.com*
@@ -33,7 +33,7 @@
 ## Interests
 
 * *Causal Inference & Structrual Learning*
-* *Nonlinear Markov Process Modeling*
+* *Nonlinear Process Modeling*
 * *Time Series Analysis*
 * *Information Theory*
 * *Machine Learning* & *Deep Learning*
@@ -42,7 +42,22 @@
 
 ## Currently Working on
 
-* [Algorithm Tools](https://github.com/Ulti-Dreisteine/algorithm-tools)
+* [General Information Estimation Framework](https://github.com/Ulti-Dreisteine/general-information-estimation-framework)
+* [Package & Software Installation Guide](https://github.com/Ulti-Dreisteine/package-and-software-installation-guide)
+* [Machine Learning Research](https://github.com/Ulti-Dreisteine/machine-learning-research)
+
+---
+
+## Ph.D Thesis Research
+
+* [Chapter 2: Statistics](https://github.com/Ulti-Dreisteine/phd-thesis-statistics-and-bayesian-network)
+* [Chapter 3: Compact Modeling 1](https://github.com/Ulti-Dreisteine/research-compact-predictive-modeling-cmim-g)
+* [Chapter 3: Compact Modeling 2](https://github.com/Ulti-Dreisteine/phd-thesis-rmic-chemical-process-causality-analysis)
+* [Chapter 4: Temporal Causal Analysis 1](https://github.com/Ulti-Dreisteine/phd-thesis-temporal-causal-analysis)
+* [Chapter 4: Temporal Causal Analysis 2](https://github.com/Ulti-Dreisteine/phd-thesis-local-causal-analysis)
+* [Chapter 4: Temporal Causal Analysis 3](https://github.com/Ulti-Dreisteine/phd-thesis-time-delayed-causal-analysis-and-compact-modeling)
+* [Chapter 5: Process Variable Estimation 1](https://github.com/Ulti-Dreisteine/phd-thesis-process-parameter-estimation)
+* [Chapter 5: Process Variable Estimation 2](https://github.com/Ulti-Dreisteine/research-bayesian-parameter-estimation)
 
 ---
 

@@ -45,6 +45,7 @@
 * [General Information Estimation Framework](https://github.com/Ulti-Dreisteine/general-information-estimation-framework)
 * [Package & Software Installation Guide](https://github.com/Ulti-Dreisteine/package-and-software-installation-guide)
 * [Machine Learning Research](https://github.com/Ulti-Dreisteine/machine-learning-research)
+* [Causal Network](https://github.com/Ulti-Dreisteine/research-causal-network-analysis-modeling)
 
 ---
 

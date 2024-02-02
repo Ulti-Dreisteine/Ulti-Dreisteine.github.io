@@ -23,7 +23,7 @@
 * **Majors**:
   * *Bachelor* in *Chemical Engineering*, *Tsinghua University*, *Beijing*
   * *Master* in *Chemical Engineering (Process Systems Engineering)*, *Tsinghua University*, *Beijing*
-  * *Ph.D* in *Chemical Engineering (Process Systems Engineering)*, *Sichuan University*, *Chengdu*
+  * *Ph.D.* in *Chemical Engineering (Process Systems Engineering)*, *Sichuan University*, *Chengdu*
 * **Email**:
   * *dreisteine262@163.com*
   * *dreisteine262@gmail.com*
